@@ -1,10 +1,9 @@
 # Sun Fitness Tracker
 
-**Description:**
 Sun Fitness Tracker is a Streamlit-based web application designed to help users monitor their fitness progress and predict the number of calories burned based on personalized inputs. The app leverages a RandomForestRegressor model to provide accurate calorie predictions and actionable health insights.
 
 ## Features
-✅ Predicts calories burned based on:
+. Predicts calories burned based on:
 - Age
 - BMI (Body Mass Index)
 - Workout Duration (in minutes)
@@ -34,9 +33,9 @@ Sun Fitness Tracker is a Streamlit-based web application designed to help users 
 4. Click the **'Save Prediction'** button to log your progress.
 
 ## Future Improvements
-🔹 Add data visualization for weekly/monthly workout trends
-🔹 Introduce more predictive features for enhanced accuracy
-🔹 Implement user authentication for better data security
+- Add data visualization for weekly/monthly workout trends
+- Introduce more predictive features for enhanced accuracy
+- Implement user authentication for better data security
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
